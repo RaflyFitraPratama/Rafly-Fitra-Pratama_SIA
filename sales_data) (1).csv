@@ -1,0 +1,21 @@
+customer_id,name,email,phone,address,join_date
+C1,Customer 1,customer1@example.com,08123456700,Address 1,2023-01-01
+C2,Customer 2,customer2@example.com,08123456701,Address 2,2023-02-01
+C3,Customer 3,customer3@example.com,08123456702,Address 3,2023-03-01
+C4,Customer 4,customer4@example.com,08123456703,Address 4,2023-04-01
+C5,Customer 5,customer5@example.com,08123456704,Address 5,2023-05-01
+C6,Customer 6,customer6@example.com,08123456705,Address 6,2023-06-01
+C7,Customer 7,customer7@example.com,08123456706,Address 7,2023-07-01
+C8,Customer 8,customer8@example.com,08123456707,Address 8,2023-08-01
+C9,Customer 9,customer9@example.com,08123456708,Address 9,2023-09-01
+C10,Customer 10,customer10@example.com,08123456709,Address 10,2023-010-01
+C11,Customer 11,customer11@example.com,08123456710,Address 11,2023-011-01
+C12,Customer 12,customer12@example.com,08123456711,Address 12,2023-012-01
+C13,Customer 13,customer13@example.com,08123456712,Address 13,2023-01-01
+C14,Customer 14,customer14@example.com,08123456713,Address 14,2023-02-01
+C15,Customer 15,customer15@example.com,08123456714,Address 15,2023-03-01
+C16,Customer 16,customer16@example.com,08123456715,Address 16,2023-04-01
+C17,Customer 17,customer17@example.com,08123456716,Address 17,2023-05-01
+C18,Customer 18,customer18@example.com,08123456717,Address 18,2023-06-01
+C19,Customer 19,customer19@example.com,08123456718,Address 19,2023-07-01
+C20,Customer 20,customer20@example.com,08123456719,Address 20,2023-08-01
